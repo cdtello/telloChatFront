@@ -1,3 +1,12 @@
+# PASO 1:
+Descargar el repositorio
+# PASO 2:
+Ejecutar npm install para que instale todas las dependencias necesarias.
+# PASO 3:
+Ejecutar el programa con yarn start o npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
